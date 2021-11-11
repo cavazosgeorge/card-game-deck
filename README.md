@@ -1,4 +1,4 @@
-# Shuffle Card Deck Game
+# Shuffle Deck
 
 ## This simple card game will have the following features
 
