@@ -2,8 +2,6 @@
 
 #### This simple card game will have the following features
 
-<br />
-
 - newDeck
 
   - Create a list of playing cards (52). Essentially an array of strings
